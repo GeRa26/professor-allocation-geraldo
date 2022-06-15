@@ -24,6 +24,7 @@ public class Professor {
 	private String cpf;
 	
 	private Long departamentId;
+	
 	public Long getId() {
 		return id;
 	}
